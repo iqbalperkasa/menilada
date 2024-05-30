@@ -2,7 +2,8 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://shopee.co.id/Seblak-Instan-Lekoh-by-Tisara-i.83702378.25701303128"
+      "destination": "https://shopee.co.id/Seblak-Instan-Lekoh-by-Tisara-i.83702378.25701303128",
+      "permanent": false
     }
   ]
 }
